@@ -1,0 +1,16 @@
+{
+  "name": "copiadigital/acf-image-mapping-hotspots",
+  "type": "wordpress-plugin",
+  "license": "MIT",
+  "homepage": "https://github.com/copiadigital/acf-image-mapping-hotspots",
+  "keywords": [
+    "wordpress",
+    "Plugin",
+    "ACF"
+  ],
+  "require": {
+    "php": "^7.1|^8.0"
+  },
+  "minimum-stability": "dev",
+  "prefer-stable": true
+}
