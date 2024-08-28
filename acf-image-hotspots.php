@@ -4,7 +4,7 @@
 Plugin Name: Advanced Custom Fields: Image Hotspots Field
 Plugin URI: PLUGIN_URL
 Description: Adds a field to capture coordinates relative to specified images
-Version: 0.1
+Version: 0.1.1
 Author: Andrew Rockwell
 Author URI: http://www.rockwellgrowth.com
 License: GPLv2 or later
